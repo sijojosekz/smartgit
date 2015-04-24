@@ -1,0 +1,2 @@
+# smartgit
+for testing smartgit
